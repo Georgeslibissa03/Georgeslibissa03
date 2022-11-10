@@ -35,7 +35,7 @@ Ping me about <b>DataEngineering</b> and <b>Data visualization</b>
 </li>
 <li>
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/letterbox.gif" width="30">
-Reach me : <a href="">g.libissa@cat.sn</a>
+Reach me : <a href="">glibissa03@gmail.com</a>
 </li>
 </ul>
 </p>
